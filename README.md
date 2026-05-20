@@ -199,6 +199,7 @@ gitops-main/
 
 ---
 
-## Roadmap
+## 📝 Related Articles
 
-🚧 Kyverno policy engine integration with OPA compliance enforcement | Multi-cluster Argo CD management | SOPS-encrypted Secrets management | Grafana Dashboard for release state visualization
+📚 [Cloud-Native DevOps: GitOps, Tekton & Argo CD Series on dev.to](https://dev.to/jamesli/series/39822)
+
